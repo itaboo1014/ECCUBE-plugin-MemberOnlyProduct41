@@ -1,0 +1,8 @@
+plugin_memberonlyproduct:
+  admin:
+    label:
+      name: 並び替えタイトル
+      message: 表示メッセージ
+    tooltip:
+      name: 商品一覧ページの並び替えのタイトルに設定されるテキストです。
+      message: カート追加に失敗した際に表示されるメッセージです。実際に表示されるメッセージは改行されません。

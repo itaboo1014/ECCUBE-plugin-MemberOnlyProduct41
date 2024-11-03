@@ -1,0 +1,12 @@
+{
+  "name": "ec-cube/bootechmemberonlyproduct41",
+  "version": "4.1.0",
+  "description": "会員限定商品設定プラグイン(4.1系)",
+  "type": "eccube-plugin",
+  "require": {
+    "ec-cube/plugin-installer": "~0.0.7 || ^2.0"
+  },
+  "extra": {
+    "code": "BootechMemberOnlyProduct41"
+  }
+}
